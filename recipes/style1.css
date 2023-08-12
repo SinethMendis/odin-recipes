@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(146, 211, 219);
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(51, 8, 8);
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgb(41, 163, 30);
+    height: auto;
+    width: auto;
+    border-radius: 45px;
+    padding: 10px 50px;
+    /* margin-top: 300px; */
+    /* margin-bottom: 50px; */
+    font-size: 30px;
+    /* border-color: black; */
+    /* margin-left: 60px; */
+    /* margin-right: 90px; */
+    
+}
+
+img{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+    width: auto;
+    height: auto;
+}
+
+
+img.bubble-tea-image{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+    width: auto;
+    height: auto;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgb(11, 20, 19);
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+    padding: 10px 50px;
+    /* margin-top: 300px; */
+    /* margin-bottom: 50px; */
+    font-size: 30px;
+    /* border-color: black; */
+    /* margin-left: 60px; */
+    /* margin-right: 90px; */
+    margin: 35px;
+
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: bolder;
+    font-size: 22px;
+
+}
+
+ol,ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+
+}
+
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgb(11, 20, 19);
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+    padding: 10px 50px;
+    /* margin-top: 300px; */
+    /* margin-bottom: 50px; */
+    font-size: 30px;
+    /* border-color: black; */
+    /* margin-left: 60px; */
+    /* margin-right: 90px; */
+    margin: 35px;
+
+}
